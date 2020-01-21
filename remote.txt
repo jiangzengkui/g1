@@ -2,3 +2,5 @@ create remote.txt
 add line
 111111
 local update
+remote update
+
