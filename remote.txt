@@ -7,3 +7,4 @@ remote update
 addd 1622
 
 add remote add 
+add jzk
